@@ -4,7 +4,7 @@ ___
 ## Installation:
 1. Copy-create or download the file `atom-one.xml` into your "home" folder `~/`
 
-2. Put merry-woodland.xml in one of these directories:
+2. Put atom-one.xml in one of these directories:
 - ~/.local/share/gtksourceview-3.0/styles
   - `mkdir -p ~/.local/share/gtksourceview-3.0/styles && cp ~/atom-one.xml ~/.local/share/gtksourceview-3.0/styles/`
 - ~/.local/share/gedit/styles
