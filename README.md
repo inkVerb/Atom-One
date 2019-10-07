@@ -1,5 +1,5 @@
 # Atom-One
-An Atom-inspired fork of Gedit Merry Woodland Theme by inkVerb
+An Atom One Dark -inspired fork of Gedit Merry Woodland Theme by inkVerb
 ___
 ## Installation:
 1. Copy-create or download the file `atom-one.xml` into your "home" folder `~/`
